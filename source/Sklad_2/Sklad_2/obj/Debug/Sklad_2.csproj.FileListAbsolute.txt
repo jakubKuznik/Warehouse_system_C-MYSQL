@@ -1,0 +1,10 @@
+C:\Users\rekinho\source\repos\Sklad_2\Sklad_2\obj\Debug\Sklad_2.csprojAssemblyReference.cache
+C:\Users\rekinho\source\repos\Sklad_2\Sklad_2\obj\Debug\Sklad_2.Sklad.resources
+C:\Users\rekinho\source\repos\Sklad_2\Sklad_2\obj\Debug\Sklad_2.Properties.Resources.resources
+C:\Users\rekinho\source\repos\Sklad_2\Sklad_2\obj\Debug\Sklad_2.csproj.GenerateResource.cache
+C:\Users\rekinho\source\repos\Sklad_2\Sklad_2\obj\Debug\Sklad_2.csproj.CoreCompileInputs.cache
+C:\Users\rekinho\source\repos\Sklad_2\Sklad_2\bin\Debug\Sklad_2.exe.config
+C:\Users\rekinho\source\repos\Sklad_2\Sklad_2\bin\Debug\Sklad_2.exe
+C:\Users\rekinho\source\repos\Sklad_2\Sklad_2\bin\Debug\Sklad_2.pdb
+C:\Users\rekinho\source\repos\Sklad_2\Sklad_2\obj\Debug\Sklad_2.exe
+C:\Users\rekinho\source\repos\Sklad_2\Sklad_2\obj\Debug\Sklad_2.pdb
